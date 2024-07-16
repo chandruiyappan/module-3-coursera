@@ -1,0 +1,28 @@
+    /* Custom styles */
+    .navbar {
+        margin-bottom: 0; /* Remove default margin-bottom */
+      }
+      .navbar-brand {
+        float: left; /* Align the brand to the left */
+      }
+      .navbar-toggle {
+        margin: 13px 15px 13px 0; /* Adjust the toggle button margin */
+      }
+      .dropdown-menu {
+        width: 100%; /* Make dropdown menu full width */
+        background-color: #f8f9fa; /* Set background color */
+      }
+      .page-heading {
+        text-align: center; /* Center align the page heading */
+        margin-top: 50px; /* Add some top margin */
+      }
+      /* Tall section styles */
+      .tall-section {
+        height: 1000px; /* Set a tall height for demonstration */
+        background-color: #f0f0f0; /* Distinguishable background color */
+        padding: 20px; /* Add some padding for spacing */
+      }
+
+      .container-fluid {
+        justify-content: center;
+      }
